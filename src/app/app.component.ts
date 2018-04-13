@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'Branch1 My first angular app vikrant!';
+  title = 'Branch1 Increment 1 My first angular app vikrant!';
 }
